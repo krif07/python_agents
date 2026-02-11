@@ -1,2 +1,6 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+Hola, soy Cristian Dávila
+Soy ingeniero de automatización de pruebas (QA Automation) y desarrollador de software con una sólida trayectoria técnica. Actualmente vivo en Dosquebradas, Risaralda, y formo parte del equipo de Globant como Senior Test Automation Engineer.
+Esto es un poco de lo que hago y lo que me apasiona:
+Doble faceta técnica: Cuento con más de cinco años especializándome en automatización de pruebas , pero también tengo un ADN de desarrollador con más de seis años de experiencia en backend.
+Mi "stack" de confianza: Me muevo con fluidez entre Java y Python. He construido servicios REST API con Spring Boot y desarrollado aplicaciones con Django , siempre asegurando la calidad con herramientas como Selenium, SerenityBDD y Playwright.
+Formación y evolución: Soy Ingeniero de Sistemas y Computación por la Universidad Tecnológica de Pereira. A lo largo de mi carrera, he pasado por empresas como Indra e Imagemaker, lo que me ha permitido perfeccionar el ciclo completo de vida del software.
