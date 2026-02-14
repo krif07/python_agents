@@ -1,6 +1,26 @@
-Hola, soy Cristian Dávila
-Soy ingeniero de automatización de pruebas (QA Automation) y desarrollador de software con una sólida trayectoria técnica. Actualmente vivo en Dosquebradas, Risaralda, y formo parte del equipo de Globant como Senior Test Automation Engineer.
-Esto es un poco de lo que hago y lo que me apasiona:
-Doble faceta técnica: Cuento con más de cinco años especializándome en automatización de pruebas , pero también tengo un ADN de desarrollador con más de seis años de experiencia en backend.
-Mi "stack" de confianza: Me muevo con fluidez entre Java y Python. He construido servicios REST API con Spring Boot y desarrollado aplicaciones con Django , siempre asegurando la calidad con herramientas como Selenium, SerenityBDD y Playwright.
-Formación y evolución: Soy Ingeniero de Sistemas y Computación por la Universidad Tecnológica de Pereira. A lo largo de mi carrera, he pasado por empresas como Indra e Imagemaker, lo que me ha permitido perfeccionar el ciclo completo de vida del software.
+Perfil Profesional: Cristian Fernando Dávila López
+
+Resumen Ejecutivo
+Soy un apasionado de la tecnología con más de 11 años de experiencia transformando el ciclo de vida del desarrollo de software (SDLC). Mi carrera se define por cerrar la brecha entre la Ingeniería de Calidad (SDET) y el Desarrollo Backend robusto. Actualmente, como Senior Test Automation Engineer en Globant, enfoco mi energía en la intersección de la ingeniería tradicional y la IA Generativa, diseñando soluciones autónomas y optimizando flujos de trabajo con herramientas como Cursor y GitHub Copilot.
+
+¿Qué aporto al tablero?
+
+Quality Engineering (5+ años): Liderazgo en estrategias de automatización utilizando Playwright, Selenium WebDriver, SerenityBDD, TestNG y Cucumber.
+
+
+Arquitectura Backend (6+ años): Especialista en la construcción de sistemas escalables y servicios REST API con Java (Spring Boot) y Python (Django REST Framework).
+
+
+Innovación en IA: Adoptador temprano de agentes de IA con Python para transformar la lógica de negocio y los frameworks de pruebas.
+
+
+Formación Sólida: Ingeniero de Sistemas y Computación por la Universidad Tecnológica de Pereira.
+
+Más allá del código (Life & Passions)
+Cuando no estoy diseñando arquitecturas de prueba o explorando el próximo horizonte de la IA, me encontrarás buscando el equilibrio perfecto entre la disciplina y el ritmo:
+
+Cultura y Movimiento: Practico Artes Marciales (Shaolin y Boxeo) y soy asiduo al gimnasio. Pero también sé cambiar la guardia por la pista de baile, disfrutando tanto de una buena Salsa o Bachata como de un playlist de Rock (en inglés o español).
+
+Rutas y Motores: Me apasiona conducir, ya sea en cuatro ruedas o en mi favorita: la Royal Enfield Classic. Disfruto "puebliar" por Colombia, siempre en busca de un buen café local y la mejor comida típica.
+
+Compañía: En casa, el mando lo tienen mis gatos, mis animales favoritos y mejores compañeros de desconexión.
